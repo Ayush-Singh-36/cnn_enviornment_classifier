@@ -1,0 +1,11 @@
+# Machine Learning & Vision
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing & Utilities
+opencv-python>=4.8.0
+Pillow>=9.5.0
+numpy>=1.24.0
+
+# Frontend & Web App
+streamlit>=1.28.0
