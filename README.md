@@ -13,9 +13,14 @@ The project features a custom Deep Convolutional Neural Network (CNN) built in P
 
 # 📸 Application Demo
 
-| Streamlit Web App Interface | Real-time / Image Upload Inference |
-| :---: | :---: |
-| ![App Screenshot 1](assets\app_preview.png) | ![App Screenshot 2](assets/app_preview2.png) |
+### Streamlit Web App Interface
+![App Screenshot 1](assets/app_preview.png)
+
+---
+
+### Real-time / Image Upload Inference
+![App Screenshot 2](assets/app_preview2.png)
+
 
 ---
 
@@ -67,10 +72,13 @@ cnn_enviornment_classifier/
 ```
 
 🚀 Getting Started
-1. Clone the Repository
-```Bash
-git clone [https://github.com/Ayush-Singh-36/cnn_enviornment_classifier.git](https://github.com/Ayush-Singh-36/cnn_enviornment_classifier.git)
+1. **Clone the Repository:**
+Visit the [cnn_environment_classifier repository](https://github.com/Ayush-Singh-36/cnn_enviornment_classifier) or run:
+
+```bash
+git clone https://github.com/Ayush-Singh-36/cnn_enviornment_classifier.git
 ```
+
 ```Bash
 cd cnn_enviornment_classifier
 ```
